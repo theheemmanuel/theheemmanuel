@@ -33,6 +33,3 @@ A passionate software developer who loves writing codes. My passion stems from a
 
 <a href="https://github.com/theheemmanuel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theheemmanuel&langs_count=10&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/theheemmanuel/trafalgal_landing_page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=theheemmanuel&repo=trafalgal_landing_page&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/theheemmanuel/Trafalgal Landing Page" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=theheemmanuel&repo=Trafalgal Landing Page&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
