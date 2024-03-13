@@ -8,7 +8,7 @@ A passionate software developer who loves writing codes. My passion stems from a
 
 * 🌍  I'm based in Nigeria.
 * ✉️  You can contact me at [oladirane@gmail.com](mailto:oladirane@gmail.com)
-* 🧠  I'm learning Next JS.
+* 🧠  I'm learning React JS.
 * 🤝  I'm open to collaborating on React JS projects and other Frontend Jobs!
 
 ### Skills
