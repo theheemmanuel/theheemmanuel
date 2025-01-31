@@ -7,7 +7,7 @@ Tech Enthusiast || Software Developer
 A passionate software developer who loves writing codes. My passion stems from a strong desire to create interfaces that are problem solving and not just enjoyable for users...
 
 # 💫 About Me:
-🌍  I'm based in Nigeria.<br>✉️  You can contact me at oladirane@gmail.com<br>🧠  I'm learning Node JS.<br>🤝  I'm open to collaborating on React JS and Next JS projects and other Frontend Jobs!
+🌍  I'm based in Nigeria.<br>✉️  You can contact me at oladirane@gmail.com<br>🤝  I'm open to collaborating on React JS and Next JS projects and other Frontend Jobs!
 
 
 ## 🌐 Socials:
